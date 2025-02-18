@@ -26,26 +26,26 @@ The dataset used for this recommendation system is a list of 250 top movies from
 
 ### Installation
 1. Clone the repository onto your local machine
-   '''sh
+   ```sh
    git clone git@github.com:ryl2005/lumaa-spring-2025-ai-ml.git
-   '''
-2. '''sh
+   ```
+2. ```sh
    python -m venv .venv
    source .venv/bin/activate
-   '''
+   ```
 3. Install dependencies
-   '''sh
+   ```sh
    pip install -r requirements.txt
-   '''
+   ```
 
 ---
 
 ## Running the code
 
 To run the content recommendation system open a jupyter notebook:
-'''sh
+```sh
 jupyter lab
-'''
+```
 Then run all the cells in **main.ipynb** sequentially.
 
 You will be prompted to enter a descritpion of a movie that you would like a recommendation for.
@@ -54,14 +54,14 @@ You will be prompted to enter a descritpion of a movie that you would like a rec
 
 ## Results
 
-'''
+```
 Enter a movie description that you would like a movie recommendation for:  I like action movies set in space
 It's a Wonderful Life: Similarity = 0.1849
 Aliens: Similarity = 0.1620
 Saving Private Ryan: Similarity = 0.1468
 Bicycle Thieves: Similarity = 0.1396
 Taxi Driver: Similarity = 0.1278
-'''
+```
 
 ## Demo
 
