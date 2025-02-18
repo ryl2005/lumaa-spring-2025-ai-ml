@@ -25,15 +25,16 @@ The dataset used for this recommendation system is a list of 250 top movies from
 - Virtual environment
 
 ### Installation
-1. Clone the repository onto your local machine
+1. Clone the repository onto your local machine:
    ```sh
    git clone git@github.com:ryl2005/lumaa-spring-2025-ai-ml.git
    ```
-2. ```sh
+2. Create virtual environment:
+   ```sh
    python -m venv .venv
    source .venv/bin/activate
    ```
-3. Install dependencies
+4. Install dependencies:
    ```sh
    pip install -r requirements.txt
    ```
@@ -63,10 +64,14 @@ Bicycle Thieves: Similarity = 0.1396
 Taxi Driver: Similarity = 0.1278
 ```
 
+---
+
 ## Demo
 
-[Demo video]()
+[Demo video](https://drive.google.com/file/d/1AGzZ0wme9O2_4nKuz0cxPmHbT8n3T8lI/view?usp=sharing)
+
+---
 
 ## Salary expectation
 
-My salary expectation is $1000 / month.
+My salary expectation is $1200-1800 / month.
